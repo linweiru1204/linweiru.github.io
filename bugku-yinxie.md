@@ -1,3 +1,10 @@
+---
+layout:default
+title:bugku 隐写
+---
+# bugku4 隐写
+# 题目信息：
+---
 # bugku4 隐写
 # 题目信息：
 隐写；MISC(杂项）；提交BUGKU{XXX}
