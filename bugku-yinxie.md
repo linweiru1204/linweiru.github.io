@@ -1,3 +1,7 @@
+---
+layout: default
+title: bugku隐写
+---
 
 # bugku4 隐写 writeup
 
@@ -18,7 +22,7 @@
  2.找到`IHDR`数据块，修改高度，使图片变为正方形，再另存为fix.png
  3.搜索在线PNG修复，上传图片修复后下载打开
  
- ## Flag:
+ ## Flag
  
  `BUGKU{a1e5aSA}`
  
