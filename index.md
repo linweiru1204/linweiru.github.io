@@ -6,4 +6,5 @@
 - [Task 3:Bugku 第二题 Writeup](https://linweiru1204.github.io/linweiru.github.io/bugku2)
 - [Task 4:Bugku 第三题 Writeup](https://linweiru1204.github.io/linweiru.github.io/bugku-fuqiang)
 - [Task5:Bugku 隐写](https://linweiru1204.github.io/linweiru.github.io/bugku-yinxie)
+- [Task6:Bugku 滑稽](https://linweiru1204.github.io/linweiru.github.io/bugku-huaji)
 - 
