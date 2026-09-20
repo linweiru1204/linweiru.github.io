@@ -8,6 +8,7 @@
 - [Task5:Bugku 计算机](https://linweiru1204.github.io/linweiru.github.io/bugku-jisuanji)
 - [Task6:Bugku alert](https://linweiru1204.github.io/linweiru.github.io/bugku-alert)
 - [Task7:BugKU 停下](https://linweiru1204.github.io/linweiru.github.io/tingxia)
+- [Task8:BugKu 头等舱](https://linweiru1204.github.io/linweiru.github.io/toudengcang)
 
   
 - 
