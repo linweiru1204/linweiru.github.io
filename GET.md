@@ -1,0 +1,10 @@
+# BugKu GET writeup
+## 题目类型
+web
+## 解题步骤
+1. 启动场景后。题目内容为
+   `$what=$_GET['what'];`(把网址里名为what的参数值拿出，装进$what中)
+   `echo $what;`（输出$what）
+   `if($what=='flag')`
+   `echo 'flag{****}';`
+2. 直接通过网址传参?what=flag，得到答案
