@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Bugku toudengcang writeup"
+date: 2026-09-15 21:23:00 +0800
+---
 # BugKu 头等舱 writeup
 
 ## 题目类型
