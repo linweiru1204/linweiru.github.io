@@ -11,7 +11,7 @@ title: 欢迎来到我的技术博客
  {% for post in site.posts %}
    <li>
      <span>{{ post.date | date: "%b %d, %Y"}}</span>
-     <a href="{{ post.url }}">{{ post.title }}</a>
+     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
    </li>
  {% endfor %}
 </ul>
